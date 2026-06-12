@@ -10,4 +10,4 @@ very simple begginer PCB that is a out of tune piano, with four different button
 <img width="345" height="222" alt="Screenshot 2026-06-11 185230" src="https://github.com/user-attachments/assets/070e6dfb-d95d-402d-8753-4bc9be176e36" />
 <img width="430" height="467" alt="Screenshot 2026-06-11 185218" src="https://github.com/user-attachments/assets/ea8e2be7-dcaf-4877-bbba-a1be756a5c7d" />
 <img width="530" height="451" alt="Screenshot 2026-06-11 185204" src="https://github.com/user-attachments/assets/5d055da9-c46c-4845-8e71-432fceb811f6" />
-<img width="1279" height="630" alt="Screenshot 2026-06-12 150714" src="https://github.com/user-attachments/assets/88ea0245-63f4-4cba-a02a-903f75cb72c6" />
+
