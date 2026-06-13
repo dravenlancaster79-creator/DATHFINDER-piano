@@ -1,6 +1,6 @@
 # DATHFINDER-piano
-very simple begginer PCB that is a out of tune piano, with four different buttons having a different tone!
-
+very simple begginer PCB that is a out of tune piano, with four different buttons having a different tone! i built this
+ because i wanted to learn hoe PCBs work and operate, so far ive learned many new skills including Kcad and Cpp!!
 <img width="1270" height="536" alt="Screenshot 2026-06-12 145002" src="https://github.com/user-attachments/assets/895dbcf6-7f41-4f2f-99b4-7468b90434f2" />
 <img width="533" height="579" alt="Screenshot 2026-06-12 123036" src="https://github.com/user-attachments/assets/cce9f2d6-f97a-4687-989a-bb3d8f203402" />
 <img width="447" height="575" alt="Screenshot 2026-06-12 123021" src="https://github.com/user-attachments/assets/a807494e-bfb8-44ce-91d9-fbfc7bd31a0e" />
